@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @kjunfun (이준호) /**velog: https://velog.io/@kjunfun** 
-- 👀 I’m interested in 웹 프론트엔드, 백엔드
-- 🌱 I’m currently learning CS와 웹 기초 공부 중
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kjunfun (이준호)
+- 👀 I’m interested in Web dev(Front end > Back end)
+- 🌱 I’m currently learning JS, Computer Science, React and so on..
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!---
 kjunfun/kjunfun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
