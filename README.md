@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kjunfun (이준호)
-- 👀 I’m interested in Web dev(Front end > Back end)
-- 🌱 I’m currently learning JS, Computer Science, React and so on..
+- 👀 I’m interested in Web dev(Back end > Front end)
+- 🌱 I’m currently learning JS, Computer Science, Java, Spring and so on..
 
 
 
